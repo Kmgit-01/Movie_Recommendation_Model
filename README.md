@@ -1,4 +1,4 @@
-🎬 Movie Recommendation System (Content-Based Filtering)
+## 🎬 Movie Recommendation System (Content-Based Filtering)
 
 📌 Overview
 
