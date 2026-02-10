@@ -1,4 +1,5 @@
 🎬 Movie Recommendation System (Content-Based Filtering)
+
 📌 Overview
 
 This project implements a content-based movie recommendation system using cosine similarity.
@@ -31,6 +32,7 @@ Measuring similarity between vectors
 Recommending movies with highest similarity scores
 
 🗂️ Dataset Information
+
 📁 Datasets Used
 
 movies.csv
@@ -39,15 +41,15 @@ tmdb_5000_credits.csv
 
 🔑 Important Columns
 
-movie_id
+1) movie_id
 
-title
+2) title
 
-original_language
+3) original_language
 
-cast
+4) cast
 
-crew
+5) crew
 
 🛠️ Data Preprocessing Steps
 
