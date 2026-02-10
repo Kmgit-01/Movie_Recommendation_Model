@@ -31,13 +31,13 @@ Measuring similarity between vectors
 
 Recommending movies with highest similarity scores
 
-🗂️ Dataset Information
+🗂️ Dataset Information:
 
-📁 Datasets Used
-
-movies.csv
-
-tmdb_5000_credits.csv
+      📁 Datasets Used
+      
+      --->movies.csv 
+      
+      --->tmdb_5000_credits.csv
 
 🔑 Important Columns
 
